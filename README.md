@@ -1,2 +1,2 @@
 # Lego-Bot
-School project - OOP with java using Lego Robot 
+School project - OOP with java using Lejos EV3 robot
